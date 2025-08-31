@@ -30,7 +30,7 @@ A lightweight MVP for managing and publishing content across multiple social pla
 git clone https://github.com/zerexei/posexei.git
 cd post-once
 
-# Install dependencies (backend & frontend separately)
+# Install dependencies
 npm install
 
 # Run backend
